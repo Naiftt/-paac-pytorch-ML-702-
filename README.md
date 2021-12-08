@@ -1,5 +1,13 @@
 # paac-pytorch
-
+We used the repo of the below reference just to see that it works for ourselves. And to verify the scores claimed by the author below. Full credit to the original author. Note(We kept the readme file as it is below)
+@misc{pytorchaaac,
+  author = {Kostrikov, Ilya},
+  title = {PyTorch Implementations of Asynchronous Advantage Actor Critic},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/ikostrikov/pytorch-a3c}},
+}
 This is a PyTorch implementation of PAAC from ["Efficient Parallel Methods for Deep Reinforcement Learning"](https://arxiv.org/abs/1705.04862)
 
 ![BeamReider](./assets/BeamRider.gif)  ![Breakout](./assets/Breakout.gif)  ![Pong](./assets/Pong.gif)  ![Qbert](./assets/Qbert.gif)
