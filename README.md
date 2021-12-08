@@ -52,3 +52,4 @@ python play.py --env-name BreakoutDeterministic-v4
 - [openai's universe-starter-agent](https://github.com/openai/universe-starter-agent)
 - [pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c)
 
+This test was done by Sulaiman Aljanahi and Naif Alkhunaizi
